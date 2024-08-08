@@ -1,0 +1,16 @@
+1.运行：
+cd RuoYi-Cloud-Vue3
+yarn --registry=https://registry.npmmirror.com
+
+# 启动服务
+yarn dev
+
+# 构建测试环境 yarn build:stage
+# 构建生产环境 yarn build:prod
+# 前端访问地址 http://localhost:80
+
+2.node(20.16.0):
+nvm list 
+nvm use 20.16.0
+
+3.
